@@ -1,7 +1,7 @@
 {
-  "name": "googlebooks-app",
+  "name": "m21-book-search-engine",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN Full Stack Book Search Application",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js --ignore client",
@@ -10,9 +10,16 @@
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateo-Wallace/M21-Book-Search-Engine.git"
+  },
+  "author": "Mateo Wallace",
+  "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/Mateo-Wallace/M21-Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/Mateo-Wallace/M21-Book-Search-Engine#readme",
   "devDependencies": {
     "concurrently": "^5.1.0"
   }
