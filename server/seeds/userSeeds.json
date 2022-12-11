@@ -1,0 +1,47 @@
+[
+  {
+    "username": "Test Tester",
+    "email": "test@test.com",
+    "password": "testtest",
+    "savedBooks": [
+      {
+        "authors": ["Baby No Money", "Young Gravy"],
+        "description": "The book about some good song boys",
+        "bookId": "a1",
+        "image": "https://via.placeholder.com/150",
+        "link": "https://placeholder.com/",
+        "title": "Best Song Boys"
+      }
+    ]
+  },
+  {
+    "username": "Brian Kernighan",
+    "email": "bkernighan@techfriends.dev",
+    "password": "password01",
+    "savedBooks": [
+      {
+        "authors": ["Baby No Money", "Young Gravy"],
+        "description": "The book about some good song boys",
+        "bookId": "a1",
+        "image": "https://via.placeholder.com/150",
+        "link": "https://placeholder.com/",
+        "title": "Best Song Boys"
+      }
+    ]
+  },
+  {
+    "username": "Lernantino",
+    "email": "lernantino@techfriends.dev",
+    "password": "password10",
+    "savedBooks": [
+      {
+        "authors": ["Baby No Money", "Young Gravy"],
+        "description": "The book about some good song boys",
+        "bookId": "a1",
+        "image": "https://via.placeholder.com/150",
+        "link": "https://placeholder.com/",
+        "title": "Best Song Boys"
+      }
+    ]
+  }
+]
