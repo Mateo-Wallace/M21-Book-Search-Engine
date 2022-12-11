@@ -3,4 +3,11 @@ MERN Practice. Full Stack Application that searches for books
 
 ## Tasks
 
-- [ ] Fix package jsons
+- [x] Fix package jsons
+
+// getSingleUser
+
+// createUser
+// login
+// saveBook
+// deleteBook
