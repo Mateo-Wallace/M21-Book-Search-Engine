@@ -13,7 +13,7 @@ const LoginForm = () => {
   const [showAlert, setShowAlert] = useState(false);
 
   // graphql mutation login
-  const [login, { error, data }] = useMutation(LOGIN);
+  const [login] = useMutation(LOGIN);
 
   const handleInputChange = (event) => {
     const { name, value } = event.target;
