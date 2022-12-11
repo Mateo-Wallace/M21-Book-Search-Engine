@@ -5,7 +5,10 @@
     "password": "testtest",
     "savedBooks": [
       {
-        "authors": ["Baby No Money", "Young Gravy"],
+        "authors": [
+          "Baby No Money",
+          "Young Gravy"
+        ],
         "description": "The book about some good song boys",
         "bookId": "a1",
         "image": "https://via.placeholder.com/150",
@@ -20,7 +23,10 @@
     "password": "password01",
     "savedBooks": [
       {
-        "authors": ["Baby No Money", "Young Gravy"],
+        "authors": [
+          "Baby No Money",
+          "Young Gravy"
+        ],
         "description": "The book about some good song boys",
         "bookId": "a1",
         "image": "https://via.placeholder.com/150",
@@ -35,7 +41,10 @@
     "password": "password10",
     "savedBooks": [
       {
-        "authors": ["Baby No Money", "Young Gravy"],
+        "authors": [
+          "Baby No Money",
+          "Young Gravy"
+        ],
         "description": "The book about some good song boys",
         "bookId": "a1",
         "image": "https://via.placeholder.com/150",
