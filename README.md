@@ -3,7 +3,7 @@ MERN Practice. Full Stack Application that searches for books
 
 ## Tasks
 
-- [x] Fix package jsons
+- [ ] Current task: Client Side mutation and queries
 
 // getSingleUser
 
